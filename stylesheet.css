@@ -4,6 +4,7 @@ ul {
     padding: 0;
     background-color: #f1f1f1;
     overflow: hidden;
+    font-family: Calibri ,Arial, Helvetica, sans-serif;
   }
   li {
       float: left;
@@ -35,4 +36,6 @@ ul {
       margin: auto;
       width: 20%;
   }
-  
+p {
+  font-family: Calibri ,Arial, Helvetica, sans-serif;
+}
